@@ -11,3 +11,10 @@ This repository!  is my experimental playground for trial and error—mostly err
 - **Disassembler**: `objdump`, `ghidra`
 - **Exploit Dev**: `pwntools`
 
+## 🚧 Status  
+This repository is still under development. I will continue updating it with exercises, experiments, and new notes.  
+
+## 📢 Notes  
+If you find something interesting or have suggestions, feel free to discuss!
+
+**Let's break some binaries!** 🔥
