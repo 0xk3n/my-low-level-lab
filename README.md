@@ -3,3 +3,11 @@
 This repository!  is my experimental playground for trial and error—mostly error.<br>
 
 <img src="https://github.com/0xk3n/my-low-level-lab/blob/main/other/img/random/1688436992328.jpg" widht="200" height="200" padding="5px">
+
+
+## The tools i use ⚒️
+- **Compiler**: `gcc`
+- **Debugger**: `gdb`, `radare2`
+- **Disassembler**: `objdump`, `ghidra`
+- **Exploit Dev**: `pwntools`
+
