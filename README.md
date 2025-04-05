@@ -11,6 +11,18 @@ This repository!  is my experimental playground for trial and error—mostly err
 - **Disassembler**: `objdump`, `ghidra`
 - **Exploit Dev**: `pwntools`
 
+## structure 
+
+```
+my-low-level-lab/
+├─ binary-exploit/
+├─ C-Programming/
+├─ online-source/
+├─ other/
+├─ reverse-eng
+└─ README.md
+```
+
 ## 🚧 Status  
 This repository is still under development. I will continue updating it with exercises, experiments, and new notes.  
 
